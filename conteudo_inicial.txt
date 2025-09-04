@@ -1,0 +1,1 @@
+.Versão 1: Este é o conteúdo inicial do arquivo.
