@@ -1,1 +1,4 @@
 .Versão 1: Este é o conteúdo inicial do arquivo.
+.Versão 2: Adiciona uma seguda linha com informações atualizadas.
+    #verificando o status do repositório com informações atualizadas
+.Versão 3: Corrigindo erro de digitação adicionando aos detalhes.
